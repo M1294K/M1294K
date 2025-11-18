@@ -7,7 +7,7 @@ I'm learning and experimenting a lot — trying out various stacks and figuring 
 
 ----
 Tools & Tech
-* Backend: Node.js, Express, Spring Boot (Java, Kotlin)
+* Backend: Node.js, Express, Spring Boot(Java, Kotlin), MySQL
 * Frontend(weak): React
 ----
 Feel free to check out my repositories!  
