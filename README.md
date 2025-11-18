@@ -1,17 +1,14 @@
 ## Hi there 👋
 
-<!--
-**M1294K/M1294K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **M1294K**, an aspiring **Software Engineer** currently in my **2nd year of university**.
 
-Here are some ideas to get you started:
+I enjoy exploring different areas of software development, and I'm always trying new technologies and building things from scratch — whether it's web **backends**, frontends, algorithms, or even game prototypes.
+I'm learning and experimenting a lot — trying out various stacks and figuring out what kind of engineer I want to become.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm currently working on Building a Japanese vocabulary learning web application.
+----
+Tools & Tech
+* Backend: Node.js, Express, Spring Boot (Java, Kotlin)
+* Frontend(weak): React
+----
+Feel free to check out my repositories!  
+Thanks for visiting 🙏
