@@ -7,7 +7,7 @@ I'm learning and experimenting a lot — trying out various stacks and figuring 
 
 ----
 Tools & Tech
-* Backend: Node.js, Express, Spring Boot(Java, Kotlin), MySQL ![Spring Boot](https://img.shields.io/badge/SpringBoot-#6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+* Backend: Node.js, Express, Spring Boot(Java, Kotlin), MySQL
 * Frontend(weak): React
 ----
 Feel free to check out my repositories!  
