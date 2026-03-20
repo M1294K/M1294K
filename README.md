@@ -7,7 +7,7 @@ I'm learning and experimenting a lot — trying out various stacks and figuring 
 
 ----
 **Tools & Tech**
-* Backend: Node.js, Express, Spring Boot(Java, Kotlin), MySQL
+* Backend: Node.js, Express, Spring Boot(Java, Kotlin), MySQL, PostgresSQL
 * Frontend(weak): React  <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dltmdwodla0211)](https://solved.ac/dltmdwodla0211)
