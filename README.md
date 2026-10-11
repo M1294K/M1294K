@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm **M1294K**, an aspiring **Software Engineer** currently in my **3rd year of university**.
+I'm **M1294K**, a **3rd-year Computer Engineering student** with a broad interest in various fields of computer science and technology.
 
-I enjoy exploring different areas of software development, and I'm always trying new technologies and building things from scratch — whether it's web **backends**, frontends, algorithms, or even game prototypes.
+I'm always curious about how things work and enjoy learning new concepts, exploring different technologies, and expanding my knowledge across different areas of computer engineering.
 I'm learning and experimenting a lot — trying out various stacks and figuring out what kind of engineer I want to become.
 
 ----
